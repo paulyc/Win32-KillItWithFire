@@ -1,0 +1,10 @@
+/target
+**/*.rs.bk
+
+# Finder - KillItWithFire!
+.DS_Store
+
+# IntelliJ - Still to this day, the only Java desktop app that isnt a complete POS
+# Dont even need build files cause it's smart enough to import cargo's imagine that
+.idea
+*.iml
